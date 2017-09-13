@@ -1,0 +1,15 @@
+{
+    "filter": "nearest",
+    "panel": {
+        "size": {
+            "x": 400,
+            "y": 485
+        }
+    },
+    "position": {
+        "x": 0,
+        "y": 0
+    },
+    "scale": -250,
+    "source": "image.png"
+}
